@@ -1,3 +1,6 @@
+![Python application](https://github.com/huang-jin-intel/iotg-fbu/workflows/Python%20application/badge.svg)
+
+
 # Firmware and BIOS Utilities (FBU)
 
 The project contains command line Python scripts to stitch sub-region images to Intel FirmWare Image (IFWI) and create UEFI capsule images. Optionally, signing tool is
