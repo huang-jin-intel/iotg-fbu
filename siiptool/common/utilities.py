@@ -10,11 +10,6 @@ import subprocess
 import sys
 import click
 from pathlib import Path
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-import common.logging as logging
-
-
-
 
 def execute_cmds(log, cmds):
     """execute commands created from the build list"""
